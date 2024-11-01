@@ -144,11 +144,11 @@ p {
 
 .image-container {
     flex: 1;
-    max-width:30%; /* Mantiene el ancho reducido */
-    position: absolute; /* Se mantiene para posicionarlo respecto a su contenedor padre */
-    bottom: 2%; /* Reduce este valor para mover la imagen más arriba */
-    right: 10%; /* Mantiene la posición a la izquierda */
-    margin: 1rem; /* Ajusta el margen si es necesario */
+    max-width:30%;
+    position: absolute;
+    bottom: 2%; 
+    right: 10%;
+    margin: 1rem; 
 }
 
 .profile-image {
